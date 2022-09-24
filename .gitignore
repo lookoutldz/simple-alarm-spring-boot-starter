@@ -1,3 +1,4 @@
+*secret_for_git*
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
